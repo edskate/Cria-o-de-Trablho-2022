@@ -5,3 +5,9 @@ div{
               text-shadow: 2px 3px 4px rgba(51, 121, 153, 0.2);
 
 }
+h1{
+box-shadow: 2px 3px 4px rgba(51, 136, 125, 0.2);
+background-color: darkblue;
+color: antiquewhite;
+
+}
