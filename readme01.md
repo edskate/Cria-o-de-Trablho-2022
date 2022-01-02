@@ -2,12 +2,11 @@
 
 ## 1 for real
 
-
 - something
 
 - check-out
 
-- try love us 
+- try love us
 
 - blast
 
