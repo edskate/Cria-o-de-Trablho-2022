@@ -7,3 +7,6 @@ Dia 01/01/2022
 de muitas horas de treino e foco neste trabalho fantástico de minha vida.
 Quero muito agradecer ao meu querido irmão arthur que me deu e vem me ajudando
 muito nesta minha caminhada ele sua afamilha maravilhosa.
+# Obstáculos
+-Muitos obstáculos podem ser dificeis, mas não impossivel
+— basta persistir e ter bastante foco.
